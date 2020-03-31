@@ -5,7 +5,7 @@ import { DiDjango, DiHeroku } from "react-icons/di";
 class Expertise extends React.Component {
     render() {
         return (
-            <div className="container">
+            <div className="container" id="expertisepage">
                 <div className="expertise">
                     <h1 className="display-4" style={{textAlign: 'center'}}>My Favourite Languages and Frameworks!</h1>
                     <hr style={{borderTop: '2px solid #b4b4b4'}}/>

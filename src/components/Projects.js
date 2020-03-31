@@ -9,7 +9,7 @@ import moodify from '../media/moodify.png';
 // import { faGithub } from '@fortawesome/free-solid-svg-icons'
 
 AOS.init({
-    offset: 400,
+    offset: 200,
     delay: 0,
     duration: 1000
 });
@@ -18,7 +18,7 @@ class Projects extends React.Component {
 
     render() {
         return(
-            <div className="container">
+            <div className="container" id="projectpage">
                 <section className="proj" data-aos="fade-right" style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
                     <img src="https://sam-eskandar.herokuapp.com/static/images/coollistings.f1dd0ecf95a9.png" alt=""/>
                     <div style={{textAlign: 'center'}}>

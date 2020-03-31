@@ -29,6 +29,10 @@ a {
     background-size: cover;
 }
 
+.navbar:hover {
+    cursor: pointer;
+}
+
 .navbar {
     padding-bottom: 0.8rem;
 }

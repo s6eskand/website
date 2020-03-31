@@ -3,7 +3,7 @@ import React from "react";
 class About extends React.Component {
     render() {
         return (
-            <div className="container-fluid padding">
+            <div className="container-fluid padding" id="aboutpage">
                 <div className="row welcome text-center">
                     <div className="col-12">
                         <div className="container">

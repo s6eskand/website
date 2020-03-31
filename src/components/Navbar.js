@@ -1,11 +1,13 @@
 import React from 'react';
+import * as Scroll from 'react-scroll';
+import { Link, Element , Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll';
 
 class Navbar extends React.Component {
     render() {
         return (
             <nav className="navbar navbar-expand-md navbar-light bg-light sticky-top">
                 <div className="container-fluid">
-                    <a className="navbar-brand" href="#"><h2><b>Home</b></h2></a>
+                    <Link className="navbar-brand" onClick={() => scroll.scrollToTop()}><h2><b>Home</b></h2></Link>
                     <button className="navbar-toggler" type="button" data-toggle="collapse"
                             data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                             aria-expanded="false" aria-label="Toggle navigation">
@@ -14,17 +16,17 @@ class Navbar extends React.Component {
 
                     <div className="collapse navbar-collapse" id="navbarResponsive">
                         <ul className="navbar-nav ml-auto">
-                            <li className="nav-item active">
-                                <a className="nav-link" href="#">About</a>
+                            <li className="nav-item">
+                                <Link className="nav-link" to="aboutpage" spy={true} smooth={true} offset={-70} duration={2000}>About</Link>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#">Projects</a>
+                                <Link className="nav-link" to="projectpage" spy={true} smooth={true} offset={-100} duration={2000}>Projects</Link>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#">Expertise</a>
+                                <Link className="nav-link" to="expertisepage" spy={true} smooth={true} offset={-20} duration={2000}>Expertise</Link>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#">Contact</a>
+                                <Link className="nav-link" to="contactpage" spy={true} smooth={true} offset={0} duration={2000}>Contact</Link>
                             </li>
                         </ul>
                     </div>
