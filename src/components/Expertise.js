@@ -1,13 +1,12 @@
 import React from 'react';
-import { FaGithub, FaDev, FaCss3Alt, FaHtml5, FaPython, FaReact, FaGit, FaJs } from 'react-icons/fa';
-import {MdDevices} from 'react-icons/md';
+import { FaCss3Alt, FaHtml5, FaPython, FaReact, FaGit, FaJs } from 'react-icons/fa';
 import { DiDjango, DiHeroku } from "react-icons/di";
 
 class Expertise extends React.Component {
     render() {
         return (
-            <div className="expertise">
-                <div className="container">
+            <div className="container">
+                <div className="expertise">
                     <h1 className="display-4" style={{textAlign: 'center'}}>My Favourite Languages and Frameworks!</h1>
                     <hr style={{borderTop: '2px solid #b4b4b4'}}/>
                     <div className="languages">

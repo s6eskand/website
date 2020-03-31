@@ -6,6 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from "./components/Navbar";
 import Projects from './components/Projects';
 import Expertise from "./components/Expertise";
+import Contact from "./components/Contact";
 
 class App extends React.Component {
   render() {
@@ -16,6 +17,7 @@ class App extends React.Component {
             <About/>
             <Projects/>
             <Expertise/>
+            <Contact/>
         </div>
     );
   }
