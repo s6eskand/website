@@ -23,7 +23,7 @@
     "react-scroll": "^1.7.16",
     "react-typical": "^0.1.3"
   },
-  "homepage": "https://s6eskand.github.io/website",
+  "homepage": "http://s6eskand.github.io/website",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
