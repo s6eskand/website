@@ -12,7 +12,7 @@ AOS.init({
     offset: 1100,
     delay: 0,
     duration: 1000,
-    disable: 'mobile'
+    disable: 'mobile',
 });
 
 class Projects extends React.Component {

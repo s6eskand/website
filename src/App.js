@@ -7,6 +7,11 @@ import Navbar from "./components/Navbar";
 import Projects from './components/Projects';
 import Expertise from "./components/Expertise";
 import Contact from "./components/Contact";
+import AOS from 'aos';
+
+AOS.init({
+    disable: 'mobile',
+});
 
 class App extends React.Component {
   render() {
