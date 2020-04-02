@@ -7,7 +7,7 @@ class Expertise extends React.Component {
         return (
                 <div className="container" id="expertisepage">
                     <div className="expertise">
-                        <h1 className="display-4" style={{textAlign: 'center'}}>My Favourite Languages and Frameworks!</h1>
+                        <h1 className="display-4" style={{textAlign: 'center'}} >My Favourite Languages and Frameworks!</h1>
                         <hr style={{borderTop: '2px solid #b4b4b4'}}/>
                         <div className="languages">
                             <div>
@@ -44,7 +44,7 @@ class Expertise extends React.Component {
                             </div>
                             <div>
                                 <DiHeroku size={50} style={{color: '#6762a6'}}/>
-                                <p>An easy to use web hosting service</p>
+                                <p>Heroku, An easy to use web hosting service</p>
                             </div>
                         </div>
                     </div>

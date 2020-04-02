@@ -1,12 +1,13 @@
 import React from 'react';
 import { Link, animateScroll as scroll} from 'react-scroll';
+import {FaHome} from 'react-icons/fa';
 
 class Navbar extends React.Component {
     render() {
         return (
             <nav className="navbar navbar-expand-md navbar-light bg-light sticky-top">
                 <div className="container-fluid">
-                    <Link className="navbar-brand" onClick={() => scroll.scrollToTop()}><h2><b>Home</b></h2></Link>
+                    <Link className="navbar-brand" onClick={() => scroll.scrollToTop()}><FaHome size={30}/></Link>
                     <button className="navbar-toggler" type="button" data-toggle="collapse"
                             data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                             aria-expanded="false" aria-label="Toggle navigation">

@@ -9,7 +9,7 @@ import moodify from '../media/moodify.png';
 // import { faGithub } from '@fortawesome/free-solid-svg-icons'
 
 AOS.init({
-    offset: 400,
+    offset: 1100,
     delay: 0,
     duration: 1000,
 });
@@ -96,11 +96,10 @@ class Projects extends React.Component {
                             A web app made at Deltahacks VI designed to help individuals with Alzheimers and their primary care-takers.
                             <br/>
                             <br/>
-                            The primary caretaker registers a loved one diagnosed with Alzheimer's and then sets a "safe area" that their loved one would potentially wander into.
-                            If that individual exits the boundaries set by the primary caretaker, they will be notified and a path to the user will be given.
+                            The primary caretaker registers a loved one diagnosed with Alzheimer's and then sets a "safe area". If the loved one leaves that area, the user is notified
                             <br/>
                             <br/>
-                            Built using Django, Python, Javascript, HTML/CSS, and the Google maps API
+                            Built using Django, Python, Javascript, and HTML/CSS
                             <br/>
                             <br/>
                         </p>

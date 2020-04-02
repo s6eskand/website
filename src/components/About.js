@@ -7,7 +7,7 @@ class About extends React.Component {
                 <div className="row welcome text-center">
                     <div className="col-12">
                         <div className="container">
-                            <h1 className="display-4">About Me</h1>
+                            <h1 className="display-4"><b>About Me</b></h1>
                             <hr style={{borderTop: '2px solid #b4b4b4'}}/>
                             <div className="col-12">
                                 <p className="lead">Welcome to my personal website! I am an Engineering student at the University of Waterloo,
