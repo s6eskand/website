@@ -4,7 +4,7 @@ import Typical from 'react-typical';
 class Header extends React.Component {
     render() {
         return (
-            <section className="header">
+            <header className="myheader">
                 <h1 style={{position: 'absolute', top: '200px', left: '100px',color: '#f9f9f9', fontSize: '3rem', textShadow: '1px 1px 10px #000'}}>
                     Sam Eskandar,
                     <br/>
@@ -28,7 +28,7 @@ class Header extends React.Component {
                         wrapper='i'
                     />
                 </h1>
-            </section>
+            </header>
         )
     }
 }

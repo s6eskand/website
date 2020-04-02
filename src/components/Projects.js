@@ -9,9 +9,9 @@ import moodify from '../media/moodify.png';
 // import { faGithub } from '@fortawesome/free-solid-svg-icons'
 
 AOS.init({
-    offset: 200,
+    offset: 400,
     delay: 0,
-    duration: 1000
+    duration: 1000,
 });
 
 class Projects extends React.Component {
@@ -19,7 +19,13 @@ class Projects extends React.Component {
     render() {
         return(
             <div className="container" id="projectpage">
-                <section className="proj" data-aos="fade-right" style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
+                <div className="container">
+                    <div style={{paddingTop: '50px'}} className="col-12">
+                        <h1 style={{textAlign: 'center'}} className="display-4">My Projects</h1>
+                        <hr style={{borderTop: '2px solid #b4b4b4'}}/>
+                    </div>
+                </div>
+                <section className="proj" style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
                     <img src="https://sam-eskandar.herokuapp.com/static/images/coollistings.f1dd0ecf95a9.png" alt=""/>
                     <div style={{textAlign: 'center'}}>
                         <h3><b>Coollistings, a Craigslist Clone</b></h3>
@@ -41,7 +47,7 @@ class Projects extends React.Component {
                     </div>
                 </section>
 
-                <section className="proj" data-aos="fade-left" style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
+                <section className="proj" style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
                     <img src={moodify} alt=""/>
                     <div style={{textAlign: 'center'}}>
                         <h3><b>Moodify</b></h3>
