@@ -10,7 +10,7 @@ import Contact from "./components/Contact";
 import AOS from 'aos';
 
 AOS.init({
-    disable: 'mobile',
+    disable: 'phone',
 });
 
 class App extends React.Component {

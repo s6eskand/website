@@ -9,10 +9,10 @@ import moodify from '../media/moodify.png';
 // import { faGithub } from '@fortawesome/free-solid-svg-icons'
 
 AOS.init({
+    disable: 'phone',
     offset: 1100,
     delay: 0,
-    duration: 1000,
-    disable: 'mobile',
+    duration: 1000
 });
 
 class Projects extends React.Component {
@@ -71,7 +71,7 @@ class Projects extends React.Component {
                     </div>
                 </section>
 
-                <section className="proj" data-aos="fade-right" style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
+                <section className="proj" data-aos="fade-right" data-aos-anchor="" style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
                     <img src="https://sam-eskandar.herokuapp.com/static/images/claw_machine.97bdaed67082.jpg" alt=""/>
                     <div style={{textAlign: 'center'}}>
                         <h3><b>Autonomous Claw Machine</b></h3>
