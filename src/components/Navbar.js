@@ -13,7 +13,7 @@ class Navbar extends React.Component {
                         <span className="navbar-toggler-icon"/>
                     </button>
 
-                    <div className="collapse navbar-collapse" id="navbarResponsive">
+                    <div className="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul className="navbar-nav ml-auto">
                             <li className="nav-item">
                                 <Link className="nav-link" to="aboutpage" spy={true} smooth={true} offset={-70} duration={2000}>About</Link>

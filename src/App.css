@@ -8,7 +8,7 @@
 
 html, body {
     height: 100%;
-    width: 100%;
+    /*width: 100%;*/
     color: #222;
 }
 
@@ -23,11 +23,7 @@ a {
 }
 
 .myheader {
-    background-image: url("media/header.gif");
-    height: 100vh;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    padding: -100px;
 }
 
 .navbar:hover {
@@ -151,7 +147,7 @@ img {
 }
 
 .footer-nav li{
-    display: inline;
+    display: inline-flex;
     padding: 0 40px;
     color: grey;
 }

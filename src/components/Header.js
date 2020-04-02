@@ -1,11 +1,13 @@
 import React from "react";
 import Typical from 'react-typical';
+import vid from '../media/header.gif';
 
 class Header extends React.Component {
     render() {
         return (
-            <header className="myheader">
-                <h1 style={{position: 'absolute', top: '200px', left: '100px',color: '#f9f9f9', fontSize: '3rem', textShadow: '1px 1px 10px #000'}}>
+            <header>
+                <img src={vid} alt="my coding setup" style={{minHeight: '100%'}}/>
+                <h1 style={{position: 'absolute', top: '200px', left: '100px',color: '#f9f9f9', fontSize: '4vw', textShadow: '1px 1px 10px #000'}}>
                     Sam Eskandar,
                     <br/>
                     Dedicated{' '}

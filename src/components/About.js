@@ -11,7 +11,7 @@ class About extends React.Component {
                             <hr style={{borderTop: '2px solid #b4b4b4'}}/>
                             <div className="col-12">
                                 <p className="lead">Welcome to my personal website! I am an Engineering student at the University of Waterloo,
-                                with a passion for Web Development, Automous systems and vehicles, and music!
+                                with a passion for Web Development, Autonomous systems and vehicles, and music!
                                 <br/>
                                 <br/>
                                 Fun fact, I spent the last summer before University touring Ontario with the Toronto All-Star Big Band.
