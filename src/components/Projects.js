@@ -8,14 +8,26 @@ import moodify from '../media/moodify.png';
 // import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 // import { faGithub } from '@fortawesome/free-solid-svg-icons'
 
+
 AOS.init({
-    disable: 'phone',
     offset: 1100,
     delay: 0,
     duration: 1000
 });
 
+console.log(window.screen.width);
+
 class Projects extends React.Component {
+
+    isMobile = () => {
+        return window.screen.width < 760;
+    };
+
+    displayAOS = () => {
+        if (this.isMobile()) {
+            return '';
+        }
+    };
 
     render() {
         return(
@@ -71,7 +83,7 @@ class Projects extends React.Component {
                     </div>
                 </section>
 
-                <section className="proj" data-aos="fade-right" data-aos-anchor="" style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
+                <section className="proj" data-aos={this.isMobile() ? '' : 'fade-right'} style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
                     <img src="https://sam-eskandar.herokuapp.com/static/images/claw_machine.97bdaed67082.jpg" alt=""/>
                     <div style={{textAlign: 'center'}}>
                         <h3><b>Autonomous Claw Machine</b></h3>
@@ -89,7 +101,7 @@ class Projects extends React.Component {
                     </div>
                 </section>
 
-                <section className="proj" data-aos="fade-left" style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
+                <section className="proj" data-aos={this.isMobile() ? '' : 'fade-right'}  style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
                     <img src="https://sam-eskandar.herokuapp.com/static/images/deltahacks.6a526cb38f11.png" alt=""/>
                     <div style={{textAlign: 'center'}}>
                         <h3><b>Find My Fam</b></h3>
@@ -111,7 +123,7 @@ class Projects extends React.Component {
                     </div>
                 </section>
 
-                <section className="proj" data-aos="fade-right" style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
+                <section className="proj" data-aos={this.isMobile() ? '' : 'fade-right'}  style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
                     <img src="https://sam-eskandar.herokuapp.com/static/images/quizzapp.b31523acaa56.png" alt=""/>
                     <div style={{textAlign: 'center'}}>
                         <h3><b>Quiz App</b></h3>
