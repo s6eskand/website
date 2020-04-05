@@ -20,7 +20,7 @@ class Expertise extends React.Component {
                             </div>
                             <div>
                                 <FaHtml5 size={50} style={{color: '#F16529'}}/>
-                                <p>An essential language for interactive web pages</p>
+                                <p>The markup language acting as the backbone of every website</p>
                             </div>
                         </div>
                         <div className="languages">
