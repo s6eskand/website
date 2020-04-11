@@ -17,7 +17,7 @@ class Navbar extends React.Component {
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul className="navbar-nav ml-auto">
                             <li className="nav-item">
-                                <Link className="nav-link" to="aboutpage" spy={true} smooth={true} offset={-70} duration={2000}>About</Link>
+                                <Link className="nav-link" to="aboutpage" spy={true} smooth={true} offset={-58} duration={2000}>About</Link>
                             </li>
                             <li className="nav-item">
                                 <Link className="nav-link" to="projectpage" spy={true} smooth={true} offset={-70} duration={2000}>Projects</Link>

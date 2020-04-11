@@ -8,7 +8,7 @@ class Header extends React.Component {
             <header>
                 <div style={{position: 'relative'}}>
                     <img src={vid} alt="my coding setup" style={{minHeight: '100%'}}/>
-                    <h1 style={{position: 'absolute', top: '200px', left: '100px', color: '#f9f9f9', fontSize: '4vw', textShadow: '1px 1px 10px #000'}}>
+                    <h1 style={{position: 'absolute', top: '100px', left: '50px', color: '#f9f9f9', fontSize: '4vw', textShadow: '1px 1px 10px #000'}}>
                         Sam Eskandar,
                         <br/>
                         Dedicated{' '}
