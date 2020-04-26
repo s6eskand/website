@@ -22,12 +22,12 @@ AOS.init({
 });
 
 
-console.log(window.innerWidth)
+console.log(window.innerWidth);
 
 class Projects extends React.Component {
 
     displayAOS = (dir) => {
-        if (window.screen.width < 760) {
+        if (window.screen.width < 900) {
             return '';
         }
         else {

@@ -66,6 +66,7 @@ img {
     grid-gap: 2rem;
     background: #f1f1f1;
     margin-bottom: 2rem;
+    height: 100%;
 }
 
 .proj h3 {
@@ -155,6 +156,10 @@ img {
 @media(max-width:700px) {
     .proj {
         display: block;
+    }
+
+    .proj img {
+        height: 100%;
     }
 }
 
