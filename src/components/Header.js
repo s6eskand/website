@@ -6,7 +6,7 @@ class Header extends React.Component {
     render() {
         return (
             <header>
-                <div style={{position: 'relative', zIndex: '10'}}>
+                <div className="myheader" style={{position: 'relative', zIndex: '10'}}>
                     <img src={vid} alt="my coding setup" style={{minHeight: '100%'}}/>
                     <h1 style={{position: 'absolute', top: '100px', left: '50px', color: '#f9f9f9', fontSize: '4vw', textShadow: '1px 1px 10px #000'}}>
                         Sam Eskandar,

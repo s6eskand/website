@@ -19,7 +19,7 @@ body {
 }
 
 .myheader {
-    padding: -100px;
+    padding-top: 60px;
 }
 
 .nav2 {
@@ -229,6 +229,8 @@ img {
 
     .phone-logo {
         display: grid;
+        position: absolute;
+        left: 16.5%;
     }
 
     .burgericon {
