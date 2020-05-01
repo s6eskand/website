@@ -40,7 +40,7 @@ class Navbar2 extends React.Component {
     render() {
         return (
             <div>
-            <div className="background-dark" style={{opacity: this.state.opacity2}}/>
+            {/*<div className="background-dark" style={{transform: this.state.transform, opacity: this.state.opacity2, }}/>*/}
             <div className="nav2" style={{position: 'fixed', width: '100%'}}>
                 <Link className="phone-logo" onClick={this.logoClick}><FaHome size={30} style={{cursor: 'pointer'}}/></Link>
                 <div className="samlogo" onClick={this.logoClick} style={{cursor: 'pointer'}}>

@@ -5,7 +5,7 @@ class Contact extends React.Component {
     render() {
         return(
             <div>
-                <div className="container" id="contactpage" style={{paddingBottom: '0'}}>
+                <div className="container" id="contactpage" style={{paddingBottom: '0', position: 'relative'}}>
                     <div className="contactme">
                         <h1 className="display-4" style={{textAlign: 'center'}}>Contact Me Through these Platforms</h1>
                         <hr style={{borderTop: '2px solid #b4b4b4'}}/>
