@@ -13,7 +13,11 @@ class Navbar2 extends React.Component {
         this.state = {
             transform: 'translateX(100%)',
             isViewed: false,
-            opacity: '0'
+            opacity: '0',
+            transition: 'opacity 0.75s ease-in',
+            burger1: '',
+            burger2: '',
+            burger3: '',
         };
     }
 
@@ -24,6 +28,7 @@ class Navbar2 extends React.Component {
                 transform: 'translateX(100%)',
                 opacity:'0',
                 opacity2: '0',
+                transition: 'opacity 0.75s ease-in, transform 0.01s ease-out 0.75s',
             })
         }
     };
@@ -33,14 +38,15 @@ class Navbar2 extends React.Component {
             isViewed: !this.state.isViewed,
             transform: this.state.isViewed ? 'translateX(100%)' : "translateX(0%)",
             opacity: this.state.isViewed ? '0' : '1',
-            opacity2: this.state.isViewed ? '0' : '0.8'
+            opacity2: this.state.isViewed ? '0' : '0.8',
+            transition: this.state.isViewed ? 'opacity 0.75s ease-in, transform 0.01s ease-out 0.75s' : 'opacity 0.75s ease-in',
         })
     };
 
     render() {
         return (
             <div>
-            {/*<div className="background-dark" style={{transform: this.state.transform, opacity: this.state.opacity2, }}/>*/}
+            <div className="background-dark" style={{transform: this.state.transform, opacity: this.state.opacity2, transition: this.state.transition}}/>
             <div className="nav2" style={{position: 'fixed', width: '100%'}}>
                 <Link className="phone-logo" onClick={this.logoClick}><FaHome size={30} style={{cursor: 'pointer'}}/></Link>
                 <div className="samlogo" onClick={this.logoClick} style={{cursor: 'pointer'}}>
