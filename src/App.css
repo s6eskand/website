@@ -111,6 +111,21 @@ body {
     display: block;
 }
 
+.burgericon-rotate {
+    cursor: pointer;
+    position: absolute;
+    right: 19%;
+    transform: rotate(90deg);
+}
+
+.burgericon-rotate div {
+    background-color: black;
+    width: 30px;
+    height: 5px;
+    margin: 5px;
+    display: block;
+}
+
 .navbar:hover {
     cursor: pointer;
 }
@@ -255,6 +270,12 @@ img {
         cursor: pointer;
         position: absolute;
         right: 16.5%;
+    }
+
+    .burgericon-rotate {
+        cursor: pointer;
+        position: absolute;
+        right: 15.75%;
     }
 
     .header-text {
