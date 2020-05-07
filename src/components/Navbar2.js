@@ -1,11 +1,7 @@
 import React from 'react';
 import { Link, animateScroll as scroll} from 'react-scroll';
-import ReactCSSTransitionGroup from 'react-transition-group';
 import {FaHome} from 'react-icons/fa';
-
-const navStyle = {
-    // transition: 'navLinkFade 0.5s ease forwards'
-};
+import { Link as RouteLink } from 'react-router-dom';
 
 class Navbar2 extends React.Component {
     constructor() {
@@ -80,6 +76,9 @@ class Navbar2 extends React.Component {
                         <li className="nav-item">
                             <Link onClick={this.navSlide.bind(this)} to="aboutpage" spy={true} smooth={true} offset={-58} duration={2000}>About</Link>
                         </li>
+                        {/*<li className="nav-item">*/}
+                        {/*    <RouteLink style={{textDecoration: 'none', color: 'black'}} to="/blog">Blog</RouteLink>*/}
+                        {/*</li>*/}
                         <li className="nav-item">
                             <Link onClick={this.navSlide.bind(this)} to="projectpage" spy={true} smooth={true} offset={-70} duration={2000}>Projects</Link>
                         </li>
