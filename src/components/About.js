@@ -18,7 +18,7 @@ class About extends React.Component {
                                 An amazing group of musicians who I had the honor of playing trumpet with.
                                 <br/>
                                 <br/>
-                                I have experience in Python, JavaScript, C/C++, HTML/CSS, React, Django, Bootstrap, and a multitude of different web development tools and technologies
+                                I have experience in Python, JavaScript, TypeScript, Java, Groovy, C/C++, React, Django, Spring Boot, Grails, HTML/CSS, and a multitude of different web development tools and technologies
                                 <br/>
                                 <br/>
                                 Scroll down to venture further into my digital portfolio, if you like what you see, feel free to contact me if you need a website, or any related contract work done!</p>
