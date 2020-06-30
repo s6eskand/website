@@ -89,7 +89,7 @@ class Projects extends React.Component {
                     </div>
                 </section>
 
-                <section className="proj" data-aos={this.displayAOS('right')} style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
+                <section className="proj" data-aos-once={true} data-aos={this.displayAOS('right')} style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
                     <img src="https://sam-eskandar.herokuapp.com/static/images/claw_machine.97bdaed67082.jpg" alt=""/>
                     <div style={{textAlign: 'center'}}>
                         <h3><b>Autonomous Claw Machine</b></h3>
@@ -107,7 +107,7 @@ class Projects extends React.Component {
                     </div>
                 </section>
 
-                <section className="proj" data-aos={this.displayAOS('left')}  style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
+                <section className="proj" data-aos-once={true} data-aos={this.displayAOS('left')}  style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
                     <img src="https://sam-eskandar.herokuapp.com/static/images/deltahacks.6a526cb38f11.png" alt=""/>
                     <div style={{textAlign: 'center'}}>
                         <h3><b>Find My Fam</b></h3>
@@ -129,7 +129,7 @@ class Projects extends React.Component {
                     </div>
                 </section>
 
-                <section className="proj" data-aos={this.displayAOS('right')}  style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
+                <section className="proj" data-aos-once={true} data-aos={this.displayAOS('right')}  style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
                     <img src="https://sam-eskandar.herokuapp.com/static/images/quizzapp.b31523acaa56.png" alt=""/>
                     <div style={{textAlign: 'center'}}>
                         <h3><b>Quiz App</b></h3>
