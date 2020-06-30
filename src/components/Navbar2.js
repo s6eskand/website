@@ -138,8 +138,8 @@ class Navbar2 extends React.Component {
                             }
                             mediaBackgroundStyle={{ backgroundColor: blue[400] }}
                             style={{ backgroundColor: '#797A7B' }}
-                            title="React Hooks with JavaScript"
-                            subtitle="Coding and fishing. Name a better combo. I'll wait."
+                            title="React Hooks (JavaScript)"
+                            subtitle="Coding and fishing. Name a better duo. I'll wait."
                         />
                         <Slide
                             media={
