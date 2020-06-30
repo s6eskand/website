@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaGithub, FaLinkedin, FaDev } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 
 class Contact extends React.Component {
     render() {
@@ -17,7 +17,7 @@ class Contact extends React.Component {
                                 <a href="https://linkedin.com/in/sameskandar"><FaLinkedin size={50} style={{color: '#2965f1'}}/></a>
                             </div>
                             <div>
-                                <a href="https://devpost.com/s6eskand?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><FaDev size={50} style={{color: '#003e54'}}/></a>
+                                <a href="https://twitter.com/sameskandar22"><FaTwitter size={50} style={{color: '#1DA1F2'}}/></a>
                             </div>
                         </div>
                         <img className="profilepic" src="https://sam-eskandar.herokuapp.com/static/images/profile_pic.21be18cd3f8d.png" style={{borderRadius: '50%', borderTop: '50%'}}/>
