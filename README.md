@@ -91,9 +91,9 @@
      * This show _will_ make you want to play volleyball
      * Fun, lighthearted anime to get you hyped about a new universe!
    4. **Death Note**
-     * This one's a classic
-     * Great story line, an anime that makes you question what we see as right and wrong
-     * Apples are cool I guess (reference to the show)
+      * This one's a classic
+      * Great story line, an anime that makes you question what we see as right and wrong
+      * Apples are cool I guess (reference to the show)
   5. **Avatar: The Last Airbender, Avatar: The Legend of Korra**
      * Since the original is not Japanese, watch the original version, not the Japanese one
      * Technically a cartoon, but still on the list
@@ -103,7 +103,14 @@
 If you're still reading, here are some pictures of myself that I like.
 
 Me with Geese, becoming a true University Of Waterloo Student:
-![Me with Geese](/readme-images/IMG_4546.png)
 
-Me
+![Me with Geese](/readme-images/IMG_4546.PNG)
+
+Me showing my math work some love:
+
+![True love](/readme-images/IMG_4466.JPG)
+
+Me on halloween 2019:
+
+![90's Fitness but it's me](/readme-images/IMG_2823.JPG)
   
