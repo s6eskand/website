@@ -1,6 +1,7 @@
 # Sam Eskandar - I like code or something I guess
 
-## Hey There!!! 🤠 My name is Sam Eskandar, welcome to my Github profile! 🥳
+## Hey There!!! 🤠 My name is Sam Eskandar! 
+## Welcome to my Github profile! 🥳
 
 ### I am an Engineering Student at the University of Waterloo, with a passion for Full Stack development, and 1950's swing music!
 
@@ -56,52 +57,53 @@
     
 ### Some music recommendations 🎧:
   1. **[The Entire _Sinatra at the Sands_ Album](https://open.spotify.com/album/2m0W0n7zBYmRNs1QAgoa6Z?si=7t1-4AsdQVue1D9LKthAgg)**
-    * This has to be one of the best albums Sinatra has ever released
-    * Live performance in Las Vegas Nevada with the Count Basie Band
-    * Features a 10 minute monologue by Sinatra himself that is absolutely golden
+     * This has to be one of the best albums Sinatra has ever released
+     * Live performance in Las Vegas Nevada with the Count Basie Band
+     * Features a 10 minute monologue by Sinatra himself that is absolutely golden
   2. **[_I Can't Stop Loving You_ (Count Basie version)](https://open.spotify.com/track/3rGZUTr7tBqpnN7YOXnpAp?si=niCZ-pWxRPmRZsETw-k5lw)**
-    * One of my favourite Basie tunes
-    * Super fun song to play, and great music to blast while doing anything
+     * One of my favourite Basie tunes
+     * Super fun song to play, and great music to blast while doing anything
   3. **[_Time Alone With You_ - Jacob Collier (feat. Daniel Caeser)](https://open.spotify.com/track/1iTiSQWPJNqthOMG8HG6gI?si=glaemvPLS-uOptnUgxxjyQ)**
-    * A great song to listen to if you're new to Jacob Collier
-    * The groove on this song will make your head bop
+     * A great song to listen to if you're new to Jacob Collier
+     * The groove on this song will make your head bop
   4. **[_Up Top_ - Busty and The Bass](https://open.spotify.com/track/5hG8gvQ2d80Qoly4vfGOkH?si=9pzsI2Y3RNyVvYfCy-j_Yg)**
-    * Another great dancing funk song
-    * By an amazing group from Hamilton, Ontario!
-    * I promise this song will make you sing along on your commute to work (money back guaranteed)
+     * Another great dancing funk song
+     * By an amazing group from Hamilton, Ontario!
+     * I promise this song will make you sing along on your commute to work (money back guaranteed)
   5. **[_White Ferrari_ - Frank Ocean](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV?si=frUqKtAcRuCZ7jiKLU4Eng)**
-    * Because a softer song is essential
-    * Great for some quiet time, or a late night drive alone
-    * One of my favourite Artists 
+     * Because a softer song is essential
+     * Great for some quiet time, or a late night drive alone
+     * One of my favourite Artists 
   
 ### Some Anime Recommendations 📺:
-  * ***DISCLAIMER*** Sorry if you don't like anime, but this is essential. (P.S. You have to watch subbed or else you'll make me sad 😢)
+  ***DISCLAIMER*** Sorry if you don't like anime, but this is essential. (P.S. You have to watch subbed or else you'll make me sad 😢)
   1. **JoJo's Bizarre Adventures**
-    * This is my favourite anime
-    * Not the best one to watch if you're just getting into anime (still a great anime nevertheless!)
-    * Has some great pop culture references
-    * 🌟🤩✨ _Is Fabulous_ ✨🤩🌟
+     * This is my favourite anime
+     * Not the best one to watch if you're just getting into anime (still a great anime nevertheless!)
+     * Has some great pop culture references
+     * 🌟🤩✨ _Is Fabulous_ ✨🤩🌟
   2. **Attack on Titan**
-    * GREAT anime to watch if you're just getting into anime
-    * Action!!! Some really cool fighting scenes as well as great animation
-    * Great overarching story line that keeps you hooked
+     * GREAT anime to watch if you're just getting into anime
+     * Action!!! Some really cool fighting scenes as well as great animation
+     * Great overarching story line that keeps you hooked
   3. **Haikyuu!**
-    * Who doesn't love watching intense volleyball scenes
-    * This show _will_ make you want to play volleyball
-    * Fun, lighthearted anime to get you hyped about a new universe!
-  4. **Death Note**
-    * This one's a classic
-    * Great story line, an anime that makes you question what we see as right and wrong
-    * Apples are cool I guess (reference to the show)
+     * Who doesn't love watching intense volleyball scenes
+     * This show _will_ make you want to play volleyball
+     * Fun, lighthearted anime to get you hyped about a new universe!
+   4. **Death Note**
+     * This one's a classic
+     * Great story line, an anime that makes you question what we see as right and wrong
+     * Apples are cool I guess (reference to the show)
   5. **Avatar: The Last Airbender, Avatar: The Legend of Korra**
-    * Technically a cartoon, but still on the list
-    * AMAZING SHOW, an absolute classic that I've watched over 4 times now
-    * Watch The Last Airbender, then Legend of Korra so you're not confused
+     * Since the original is not Japanese, watch the original version, not the Japanese one
+     * Technically a cartoon, but still on the list
+     * AMAZING SHOW, an absolute classic that I've watched over 4 times now
+     * Watch The Last Airbender, then Legend of Korra so you're not confused
  
 If you're still reading, here are some pictures of myself that I like.
 
 Me with Geese, becoming a true University Of Waterloo Student:
-![Me with Geese](https://drive.google.com/file/d/1VR3iziewCC-mJ5c6vK5dgs0TjAFtz2JR/view?usp=sharing)
+![Me with Geese](/readme-images/IMG_4546.png)
 
 Me
   
