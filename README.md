@@ -105,13 +105,13 @@ If you're still reading, here are some pictures of myself that I like (Doesn't s
 
 Me with Geese, becoming a true University Of Waterloo Student:
 
-![Me with Geese](/readme-images/rsz_img_2823.jpg)
+![Me with Geese](/readme-images/rsz_img_4546.png)
 
 Me showing my math work some love:
 
-![True love](/readme-images/IMG_4466.JPG)
+![True love](/readme-images/rsz_img_4466.jpg)
 
 Me on halloween 2019:
 
-![90's Fitness but it's me](/readme-images/IMG_2823.JPG)
+![90's Fitness but it's me](/readme-images/rsz_img_2823.jpg)
   
