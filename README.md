@@ -100,17 +100,11 @@
      * AMAZING SHOW, an absolute classic that I've watched over 4 times now
      * Watch The Last Airbender, then Legend of Korra so you're not confused
  
-If you're still reading, here are some pictures of myself that I like.
+If you're still reading, here are some pictures of myself that I like (in order of left to right).
 
-Me with Geese, becoming a true University Of Waterloo Student:
+Me with Geese, becoming a true University Of Waterloo Student, Me showing my math work some love, Me on halloween 2019:
 
-![Me with Geese](/readme-images/IMG_4546.PNG)
-
-Me showing my math work some love:
-
-![True love](/readme-images/IMG_4466.JPG)
-
-Me on halloween 2019:
-
-![90's Fitness but it's me](/readme-images/IMG_2823.JPG)
+![Me with Geese](/readme-images/rsz_img_4546.png)
+![True love](/readme-images/rsz_img_4466.jpg)
+![90's Fitness but it's me](/readme-images/rsz_img_2823.jpg)
   
