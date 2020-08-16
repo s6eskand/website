@@ -4,10 +4,11 @@
 ## Welcome to my Github profile! 🥳
 
 ### I am an Engineering Student at the University of Waterloo, with a passion for Full Stack development, and 1950's swing music!
+### Venture further into my profile to see some cool things I'm working on! Or check out my [personal website](https://sameskandar.me) and [technical blog](https://samtechblog.com)
 
 ### Quick facts about me 📠:
   * I play the trumpet (since grade 6) 🎺
-  * I've toured Ontario playing trumpet in a Jazz Band heres us playing [ _Save The Last Dance For Me_](https://www.youtube.com/watch?v=6g62U2zJAGI) at Mel Lastman Square
+  * I've toured Ontario playing trumpet in a Jazz Band here's us playing [ _Save The Last Dance For Me_](https://www.youtube.com/watch?v=6g62U2zJAGI) at Mel Lastman Square
   * My favourite animals are sharks 🦈
   * Intramural Soccer Champ 2020 😤
   * Writing code is my therapy 👨‍💻
@@ -100,11 +101,17 @@
      * AMAZING SHOW, an absolute classic that I've watched over 4 times now
      * Watch The Last Airbender, then Legend of Korra so you're not confused
  
-If you're still reading, here are some pictures of myself that I like (in order of left to right).
+If you're still reading, here are some pictures of myself that I like (Doesn't show in profile preview, go to the repo to see them!).
 
-Me with Geese, becoming a true University Of Waterloo Student, Me showing my math work some love, Me on halloween 2019:
+Me with Geese, becoming a true University Of Waterloo Student:
 
-![Me with Geese](/readme-images/rsz_img_4546.png)
-![True love](/readme-images/rsz_img_4466.jpg)
-![90's Fitness but it's me](/readme-images/rsz_img_2823.jpg)
+![Me with Geese](/readme-images/rsz_img_2823.jpg)
+
+Me showing my math work some love:
+
+![True love](/readme-images/IMG_4466.JPG)
+
+Me on halloween 2019:
+
+![90's Fitness but it's me](/readme-images/IMG_2823.JPG)
   
