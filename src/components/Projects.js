@@ -52,15 +52,12 @@ class Projects extends React.Component {
                         <h3><b>Foolstack</b></h3>
                         <p>
                             An interactive software architecture design, and documentation web application, built with React,
-                            Grails, MongoDB, and deployed on Azure
+                            Grails, MongoDB, Azure, and the Github API.
                             <br/>
                             <br/>
-                            Allows users to document things such as database schema information, api endpoints, sample code,
-                            and more services in an intuitive and user friendly manner.
-                            <br/>
-                            <br/>
-                            Integrates with Github API to bootstrap pre-existing projects into application, pulling information such as
-                            language details, pull requests, commit history, and issues.
+                            Users can document database schema information, api endpoints, and sample code
+                            in an intuitive and user friendly manner. Input supports markdown, as well as displaying
+                            query params, request methods, sample requests and responses, in multiple languages.
                             <br/>
                             <br/>
                         </p>
