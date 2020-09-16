@@ -55,8 +55,7 @@ class Projects extends React.Component {
                             <br/>
                             <br/>
                             Allows users to document things such as database schema information, api endpoints, sample code,
-                            and more services in an intuitive and user friendly manner. Input supports markdown, as well as displaying
-                            query params, request methods, sample requests and responses, in multiple languages for each project service.
+                            and more services in an intuitive and user friendly manner.
                             <br/>
                             <br/>
                             Integrates with Github API to bootstrap pre-existing projects into application, pulling information such as
