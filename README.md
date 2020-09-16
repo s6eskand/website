@@ -1,7 +1,6 @@
 # Sam Eskandar - I like code or something I guess
 
-## Hey There!!! 🤠 My name is Sam Eskandar! 
-## Welcome to my Github profile! 🥳
+## Hey There!!! 🤠 Welcome to my Github profile! 🥳
 
 ### I am an Engineering Student at the University of Waterloo, with a passion for Full Stack development, and 1950's swing music!
 ### Venture further into my profile to see some cool things I'm working on! Or check out my [personal website](https://sameskandar.me) and [technical blog](https://samtechblog.com)
