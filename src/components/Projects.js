@@ -5,6 +5,7 @@ import '@fortawesome/fontawesome-free/css/all.min.css';
 import { FaGithub, FaDev } from 'react-icons/fa';
 import {MdDevices} from 'react-icons/md';
 import moodify from '../media/moodify.png';
+import foolstack from '../media/foolstack-video.gif';
 // import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 // import { faGithub } from '@fortawesome/free-solid-svg-icons'
 
@@ -46,7 +47,7 @@ class Projects extends React.Component {
                 </div>
 
                 <section className="proj" style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
-                    <img src="https://github.com/s6eskand/Foolstack/raw/master/readme-content/Foolstack-Google-Chrome-2020-09.gif" alt="Video demonstration of Foolstack"/>
+                    <img src={foolstack} alt="Video demonstration of Foolstack"/>
                     <div style={{textAlign: 'center'}}>
                         <h3><b>Foolstack</b></h3>
                         <p>
