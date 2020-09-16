@@ -44,6 +44,32 @@ class Projects extends React.Component {
                         <hr style={{borderTop: '2px solid #b4b4b4'}}/>
                     </div>
                 </div>
+
+                <section className="proj" style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
+                    <img src="https://github.com/s6eskand/Foolstack/raw/master/readme-content/Foolstack-Google-Chrome-2020-09.gif" alt="Video demonstration of Foolstack"/>
+                    <div style={{textAlign: 'center'}}>
+                        <h3><b>Foolstack</b></h3>
+                        <p>
+                            An interactive software architecture design, and documentation web application, built with React,
+                            Grails, MongoDB, and deployed on Azure
+                            <br/>
+                            <br/>
+                            Allows users to document things such as database schema information, api endpoints, sample code,
+                            and more services in an intuitive and user friendly manner. Input supports markdown, as well as displaying
+                            query params, request methods, sample requests and responses, in multiple languages for each project service.
+                            <br/>
+                            <br/>
+                            Integrates with Github API to bootstrap pre-existing projects into application, pulling information such as
+                            language details, pull requests, commit history, and issues.
+                            <br/>
+                            <br/>
+                        </p>
+                        <div style={{display: 'flex', justifyContent: 'center'}}>
+                            <a href="https://github.com/s6eskand/Foolstack"><i className="link-button"><FaGithub size={30}/></i></a>
+                        </div>
+                    </div>
+                </section>
+
                 <section className="proj" style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
                     <img src="https://sam-eskandar.herokuapp.com/static/images/coollistings.f1dd0ecf95a9.png" alt=""/>
                     <div style={{textAlign: 'center'}}>
@@ -124,32 +150,10 @@ class Projects extends React.Component {
                         </p>
                         <div style={{display: 'flex', justifyContent: 'center'}}>
                             <a href="https://github.com/s6eskand/alz_locate"><i className="link-button"><FaGithub size={30}/></i></a>
-                            <a href="https://findmyfam.herokuapp.com"><i className="link-button"><MdDevices size={30}/></i></a>
                         </div>
                     </div>
                 </section>
 
-                <section className="proj" data-aos-once={true} data-aos={this.displayAOS('right')}  style={{boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}>
-                    <img src="https://sam-eskandar.herokuapp.com/static/images/quizzapp.b31523acaa56.png" alt=""/>
-                    <div style={{textAlign: 'center'}}>
-                        <h3><b>Quiz App</b></h3>
-                        <p>
-                            A quiz app built using JavaScript, HTML, and CSS. Utilizes the Open Trivia Database API for trivia questions
-                            <br/>
-                            <br/>
-                            The front end utilizes CSS flex box properties for a responsive web design, as well as a JavaScript loader animation.
-                            <br/>
-                            <br/>
-                            User scores as well as high scores are stored in local storage.
-                            <br/>
-                            <br/>
-                        </p>
-                        <div style={{display: 'flex', justifyContent: 'center'}}>
-                            <a href="https://github.com/s6eskand/quizapp"><i className="link-button"><FaGithub size={30}/></i></a>
-                            <a href="https://s6eskand.github.io/quizapp/"><i className="link-button"><MdDevices size={30}/></i></a>
-                        </div>
-                    </div>
-                </section>
             </div>
         )
     }
